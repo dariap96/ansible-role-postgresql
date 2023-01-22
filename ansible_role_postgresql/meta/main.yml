@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: postgresql
+  role_name: ansible-role-postgresql
   namespace: acme
   author: Daria Pomazan
   description: PostgreSQL role for Ubuntu
